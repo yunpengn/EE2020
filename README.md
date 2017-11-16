@@ -33,4 +33,4 @@ This is a first course that introduces fundamental digital logic, digital circui
 
 ## Licence
 
-* [MIT](LICENCE)
+* [MIT](LICENSE)
