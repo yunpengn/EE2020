@@ -1,3 +1,4 @@
+:stylesDir: stylesheets
 = EE2020 Digital Fundamentals
 
 {empty}
