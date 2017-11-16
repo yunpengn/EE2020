@@ -16,11 +16,11 @@ This is a first course that introduces fundamental digital logic, digital circui
 5
 
 ## Weekly Workload
-- Lecture: 4 hrs
-- Tutorial: 2 hrs
+- Lecture: 3 hrs
+- Tutorial: 1 hrs
 - Lab: 2 hrs
-- Project: 4 hrs
-- Preparation: 3 hrs
+- Project: 2 hrs
+- Preparation: 4 hrs
 
 ## Final Quiz Date
 15-11-2017 10:00 AM
