@@ -15,22 +15,22 @@ This is a first course that introduces fundamental digital logic, digital circui
 ## Modular Credit
 5
 
-== Weekly Workload
+## Weekly Workload
 - Lecture: 4 hrs
 - Tutorial: 2 hrs
 - Lab: 2 hrs
 - Project: 4 hrs
 - Preparation: 3 hrs
 
-== Final Quiz Date
+## Final Quiz Date
 15-11-2017 10:00 AM
 
-== CA Components
+## CA Components
 * Labs
 * Project
 * Midterm Quiz
 * Final Quiz
 
-== Licence
+## Licence
 
 * [MIT](LICENCE)
