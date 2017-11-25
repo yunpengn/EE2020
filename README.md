@@ -33,4 +33,4 @@ This is a first course that introduces fundamental digital logic, digital circui
 
 ## Licence
 
-* [MIT](LICENSE)
+* [GNU General Public Licence 3.0](LICENSE)
